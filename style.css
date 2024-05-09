@@ -5,28 +5,29 @@ body {
 }
 
 .section-one {
-    background-image: url(images/donation7.jpg);
+    background-image: url(images/donation1.jpg);
     background-repeat: no-repeat;
     width: 100%;
-    height: 550px;
+    height: 580px;
     text-align: center;
     background-position: fixed;
+    background-size: cover;
 
 }
 
 .section-one h1,
 p,
 a {
-    color: white;
+    color: rgb(243, 245, 232);
 }
 
 .section-one h1 {
-    padding-top: 180px;
-    font-size: 50px;
+    padding-top: 145px;
+    font-size: 55px;
 }
 
 .section-one p {
-    color: rgb(171, 193, 219);
+    color: rgb(216, 224, 235);
     padding-bottom: 18px;
 }
 
@@ -34,6 +35,57 @@ a {
     background-image: linear-gradient(orange, tomato);
     padding: 10px 20px;
     border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.section-two {
+    text-align: center;
+}
+
+.section-two h1 {
+    padding-top: 60px;
+}
+
+.section-two p {
+    color: rgb(117, 117, 133);
+}
+
+.section-two .all-mony {
+    display: flex;
+    padding-left: 220px;
+    padding-top: 30px;
+}
+
+.all-mony>div {
+    padding: 40px 30px;
+    background-color: rgb(232, 227, 227);
+    margin-left: 20px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: 700px;
+    color: rgb(129, 136, 141);
+}
+
+.all-mony .mony-two {
+    border: 2px solid red;
+    color: red;
+    background-color: rgb(249, 177, 177);
+}
+
+.other-mony {
+    padding-top: 60px;
+    color: rgb(168, 161, 161);
+    padding-bottom: 30px;
+}
+
+.other-mony hr {
+    width: 800px;
+}
+
+.section-two a {
+    padding: 10px 20px;
+    background-image: linear-gradient(orange, tomato);
     text-decoration: none;
 
 }
