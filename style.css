@@ -64,14 +64,14 @@ a {
 
 .all-mony>div {
     width: 8%;
-    height: 50px;
+    height: 75px;
     background-color: rgb(243, 239, 239);
     border-radius: 5px;
     text-align: center;
 }
 
 .all-mony h1 {
-    margin-top: -50px;
+    margin-top: -40px;
     font-weight: 700px;
     padding-bottom: 80px;
 }
