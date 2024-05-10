@@ -54,8 +54,8 @@ a {
 .section-two .all-mony {
     width:100%;
     display: flex;
-    padding-left: 110px;
-    padding-right:110px;
+    padding-left: 50%;
+    padding-right:50%;
     padding-top: 30px;
 }
 
