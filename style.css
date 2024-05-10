@@ -41,7 +41,6 @@ a {
 
 .section-two {
     text-align: center;
-    background-positon:fixed;
     
     
 }
@@ -55,11 +54,9 @@ a {
 }
 
 .section-two .all-mony {
-    width:100%;
     display: flex;
-    padding-left:210px;
+    padding-left:220px;
     padding-top: 30px;
-    text-align:center;
    
     
 }
