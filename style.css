@@ -42,7 +42,6 @@ a {
 
 .section-two {
     text-align: center;
-    width: auto;
 
 
 }
@@ -57,26 +56,45 @@ a {
 
 .section-two .all-mony {
     display: flex;
-    padding-left: 220px;
-    padding-top: 30px;
+
 
 
 }
 
 .all-mony>div {
-    padding: 40px 30px;
-    background-color: rgb(232, 227, 227);
-    margin-left: 20px;
+    width: 8%;
+    height: 100px;
+    background-color: rgb(243, 239, 239);
     border-radius: 5px;
-    font-size: 25px;
+    text-align: center;
+}
+
+.all-mony h1 {
+    margin-top: -30px;
     font-weight: 700px;
-    color: rgb(129, 136, 141);
+    padding-bottom: 80px;
+}
+
+.all-mony .mony-one {
+    margin-left: 20%;
+    margin-right: 5%;
+
+
 }
 
 .all-mony .mony-two {
     border: 2px solid red;
     color: red;
     background-color: rgb(249, 177, 177);
+    margin-right: 5%;
+}
+
+.all-mony .mony-three {
+    margin-right: 5%;
+}
+
+.all-mony .mony-four {
+    margin-right: 5%;
 }
 
 .other-mony {
