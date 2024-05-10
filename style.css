@@ -234,3 +234,60 @@ p {
 .img-part {
     padding-top: 40px;
 }
+
+.section-five {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.section-five p {
+    color: rgb(128, 118, 118);
+}
+
+.section-five .form-part {
+
+    width: 50%;
+    height: 150px;
+    background-color: rgb(241, 188, 101);
+    margin-left: 26%;
+    margin-top: 30px;
+    margin-bottom: 100px;
+
+}
+
+.section-five .form-part input {
+    margin-top: 75px;
+}
+
+#subscirbe {
+    background-image: linear-gradient(orange, tomato);
+    border: none;
+    transform: translate(-7px);
+    padding: 3px 0px;
+}
+
+#subscirbe:hover {
+    background-color: orange;
+    font-size: 15px;
+}
+
+.section-six {
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    height: 130px;
+    color: white;
+}
+
+.section-six h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(241, 43, 93);
+}
+
+.section-six footer h1 {
+    padding-top: 40px;
+}
+
+.section-six footer h5 {
+    color: rgb(203, 197, 197);
+}
