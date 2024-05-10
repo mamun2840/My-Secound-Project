@@ -133,6 +133,8 @@ a {
     width: 25%;
     height: 300px;
     background-color: red;
+    text-align: left;
+    font-size: 12px;
 }
 
 .flexible-content .food {
@@ -141,12 +143,34 @@ a {
     background-color: blanchedalmond;
 }
 
+.flexible-content .food img {
+    padding-left: 25px;
+    padding-top: 50px;
+
+}
+
+.flexible-content .food img,
+h2,
+p {
+    padding-left: 25px;
+}
+
 .flexible-content .shelter {
     margin-right: 4%;
     background-color: aliceblue;
 }
 
+.flexible-content .shelter img {
+    padding-top: 50px;
+    padding-left: 25px;
+}
+
 .flexible-content .education {
     margin-right: 9%;
     background-color: bisque;
+}
+
+.flexible-content .education img {
+    padding-top: 50px;
+    padding-left: 25px;
 }
