@@ -2,6 +2,7 @@ body {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
+    width: auto;
 }
 
 .section-one {
@@ -41,8 +42,9 @@ a {
 
 .section-two {
     text-align: center;
-    
-    
+    width: auto;
+
+
 }
 
 .section-two h1 {
@@ -55,10 +57,10 @@ a {
 
 .section-two .all-mony {
     display: flex;
-    padding-left:220px;
+    padding-left: 220px;
     padding-top: 30px;
-   
-    
+
+
 }
 
 .all-mony>div {
