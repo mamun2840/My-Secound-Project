@@ -41,7 +41,8 @@ a {
 
 .section-two {
     text-align: center;
-    position:relative;
+    background-positon:fixed;
+    
     
 }
 
@@ -59,7 +60,7 @@ a {
     padding-left:210px;
     padding-top: 30px;
     text-align:center;
-    position:absolute;
+   
     
 }
 
