@@ -41,6 +41,8 @@ a {
 
 .section-two {
     text-align: center;
+    
+    
 }
 
 .section-two h1 {
@@ -53,8 +55,10 @@ a {
 
 .section-two .all-mony {
     display: flex;
-    padding-left: 220px;
+    padding-left:220px;
     padding-top: 30px;
+   
+    
 }
 
 .all-mony>div {
